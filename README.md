@@ -29,6 +29,7 @@ I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with n
 
 | 💻 **Technology** | 🚀 **Project** |
 | - | - |
+| [![Go](https://img.shields.io/static/v1?label=&message=Go&color=3776AB&logo=Go&logoColor=FFFFFF)](https://go.dev/) | [![gap](https://img.shields.io/static/v1?label=&message=gap&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/liviudnicoara/gap)
 | [![Go](https://img.shields.io/static/v1?label=&message=Go&color=3776AB&logo=Go&logoColor=FFFFFF)](https://go.dev/) | [![go-graphql-poc](https://img.shields.io/static/v1?label=&message=go-graphql-poc&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/liviudnicoara/go-graphql-poc)
 | [![Go](https://img.shields.io/static/v1?label=&message=Go&color=3776AB&logo=Go&logoColor=FFFFFF)](https://go.dev/) | [![go-transports](https://img.shields.io/static/v1?label=&message=go-transports&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/liviudnicoara/go-transports)
 
