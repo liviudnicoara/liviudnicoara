@@ -15,12 +15,12 @@ I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with n
 ### ⚡️ About me
 
 - 💼 Used to be a .NET Developer.
-- 🔭 Now, I’m a GO Developer.
+- 🔭 Now, I’m a Go Developer.
 - 🌱 I’m also learning Rust.
 - 💻 Over 13+ years in IT.
 - ⛵ Encouraging people for open source collaborations.
 - 📝 I write technical blogs and articles.
-- 💬 Ask me about GO,.NET, Design, etc.
+- 💬 Ask me about Go,.NET, Design, etc.
 - 📙 Check out my [Resume](https://www.linkedin.com/in/nicoara-dan-liviu/).
 - 🎉 Fun-Fact: I ❤️ Movies🎬.
 
