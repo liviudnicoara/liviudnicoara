@@ -24,13 +24,14 @@ I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with n
 - 📙 Check out my [Resume](https://www.linkedin.com/in/nicoara-dan-liviu/).
 - 🎉 Fun-Fact: I ❤️ Movies🎬.
 
-  
+
 ### 🖥️ My Projects
 
 | 💻 **Technology** | 🚀 **Project** |
 | - | - |
+| [![Go](https://img.shields.io/static/v1?label=&message=Go&color=3776AB&logo=Go&logoColor=FFFFFF)](https://go.dev/) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?&logo=solidity&logoColor=white) | [![egopay](https://img.shields.io/static/v1?label=&message=egopay&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/liviudnicoara/egopay)
 | [![Go](https://img.shields.io/static/v1?label=&message=Go&color=3776AB&logo=Go&logoColor=FFFFFF)](https://go.dev/) | [![gap](https://img.shields.io/static/v1?label=&message=gap&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/liviudnicoara/gap)
-| [![Go](https://img.shields.io/static/v1?label=&message=Go&color=3776AB&logo=Go&logoColor=FFFFFF)](https://go.dev/) | [![go-graphql-poc](https://img.shields.io/static/v1?label=&message=go-graphql-poc&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/liviudnicoara/go-graphql-poc)
+| [![Go](https://img.shields.io/static/v1?label=&message=Go&color=3776AB&logo=Go&logoColor=FFFFFF)](https://go.dev/) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?&logo=graphql&logoColor=white) | [![go-graphql-poc](https://img.shields.io/static/v1?label=&message=go-graphql-poc&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/liviudnicoara/go-graphql-poc)
 | [![Go](https://img.shields.io/static/v1?label=&message=Go&color=3776AB&logo=Go&logoColor=FFFFFF)](https://go.dev/) | [![ggo-design-patterns](https://img.shields.io/static/v1?label=&message=go-design-patterns&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/liviudnicoara/go-design-patterns)
 | [![Go](https://img.shields.io/static/v1?label=&message=Go&color=3776AB&logo=Go&logoColor=FFFFFF)](https://go.dev/) | [![go-transports](https://img.shields.io/static/v1?label=&message=go-transports&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/liviudnicoara/go-transports)
 
